@@ -1,4 +1,4 @@
-<p align="center"><img src="/src/assets/logo.svg" width="300"></p>
+<p align="center"><img src="/src/assets/logo.svg" width="100"></p>
 
 ## About this React app
 
