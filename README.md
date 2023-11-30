@@ -1,5 +1,3 @@
-<p align="center"><img src="/src/assets/logo.svg" width="100"></p>
-
 ## About this React app
 
 Football card app made with React + Vite.
